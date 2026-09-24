@@ -1,0 +1,51 @@
+/* .author {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 32px;
+  border-radius: 12px;
+  box-shadow: 0 4px 16px rgb(0 0 0 / 12%);
+  background: #fff;
+}
+
+.author-image {
+  flex: 0 0 150px;
+}
+
+.author-image picture {
+  display: block;
+}
+
+.author-image img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.author-content {
+  flex: 1;
+}
+
+.author-content h2 {
+  margin: 0 0 8px;
+  font-size: 28px;
+}
+
+.author-role {
+  margin: 0 0 8px;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.author-experience {
+  margin: 0 0 8px;
+  font-size: 16px;
+}
+
+.author-skills {
+  margin: 0;
+  font-size: 15px;
+} */
